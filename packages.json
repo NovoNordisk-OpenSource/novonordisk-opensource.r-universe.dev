@@ -18,5 +18,9 @@
     {
         "package": "connector.sharepoint",
         "url": "https://github.com/NovoNordisk-OpenSource/connector.sharepoint"
+    },
+    {
+        "package": "postcard",
+        "url": "https://github.com/NovoNordisk-OpenSource/postcard"
     }
 ]
