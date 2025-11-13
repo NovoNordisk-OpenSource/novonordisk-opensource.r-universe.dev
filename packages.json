@@ -1,0 +1,22 @@
+[
+    {
+        "package": "whirl",
+        "url": "https://github.com/NovoNordisk-OpenSource/whirl"
+    },
+    {
+        "package": "zephyr",
+        "url": "https://github.com/NovoNordisk-OpenSource/zephyr"
+    },
+    {
+        "package": "connector",
+        "url": "https://github.com/NovoNordisk-OpenSource/connector"
+    },
+    {
+        "package": "connector.databricks",
+        "url": "https://github.com/NovoNordisk-OpenSource/connector.databricks"
+    },
+    {
+        "package": "connector.sharepoint",
+        "url": "https://github.com/NovoNordisk-OpenSource/connector.sharepoint"
+    }
+]
