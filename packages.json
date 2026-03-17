@@ -22,5 +22,9 @@
     {
         "package": "postcard",
         "url": "https://github.com/NovoNordisk-OpenSource/postcard"
+    },
+    {
+        "package": "S7schema",
+        "url": "https://github.com/NovoNordisk-OpenSource/S7schema"
     }
 ]
