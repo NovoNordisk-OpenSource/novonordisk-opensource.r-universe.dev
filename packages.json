@@ -26,5 +26,13 @@
     {
         "package": "S7schema",
         "url": "https://github.com/NovoNordisk-OpenSource/S7schema"
+    },
+    {
+        "package": "mighty.component",
+        "url": "https://github.com/NovoNordisk-OpenSource/mighty.component"
+    },
+    {
+        "package": "mighty.metadata",
+        "url": "https://github.com/NovoNordisk-OpenSource/mighty.metadata"
     }
 ]
